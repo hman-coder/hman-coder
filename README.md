@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hman-coder
-- 📱 I'm an android developer using Java and/or Dart (Flutter)
+- 📱 I'm an android developer using Java, Kotlin and/or Dart (Flutter)
 - 🌱 I’m currently learning node js with express
 - 📫 How to reach me via my email: hman_codes@protonmail.com
 - 🌐 My stackoverflow profile: https://stackoverflow.com/users/9116478/skullz
